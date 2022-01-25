@@ -45,8 +45,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Feature_Files\SpecFlowFeature1.feature" />
+    <None Include="Feature_Files\Biotus_Blog.feature" />
     <None Include="Feature_Files\Biotus_Search.feature" />
+    <None Include="Feature_Files\Biotus_CompareProducts.feature" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
